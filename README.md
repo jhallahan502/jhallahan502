@@ -2,7 +2,7 @@
 - Current Senior Information Systems Student at the University of Louisville, specializing in Cybersecurity 
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/jacksonhallahan/)">
+  <a href="https://www.linkedin.com/in/jacksonhallahan/">
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
 
 <!---
